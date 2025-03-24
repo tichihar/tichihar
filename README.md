@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-<!--
-**tichihar/tichihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web designer and developer with three years of professional experience, creating products that bring ease, care, and peace to people's lives.
 
-Here are some ideas to get you started:
 
+include what technologies / languages you specialize in the types of projects you work on, any technologies you might be learning, and ways you can be reached (social media, email, etc.)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Language: HTML, CSS, JavaScript
+Language in progress: React
+
+Let's get in contact!
+Email: tichihar@asu.edu
