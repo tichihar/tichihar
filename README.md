@@ -11,4 +11,4 @@ You can reach me via my email below.
 Email: tichihar@asu.edu
 
 
-Looking forward to talking with you soon":)
+Looking forward to talking with you soon :)
